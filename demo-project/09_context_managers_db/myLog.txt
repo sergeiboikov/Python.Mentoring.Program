@@ -1,1 +1,0 @@
-18/06/2021 22:51:28: <class 'TypeError'> unsupported operand type(s) for +: 'int' and 'str'
