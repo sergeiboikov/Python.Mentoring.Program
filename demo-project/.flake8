@@ -1,0 +1,6 @@
+[flake8]
+exclude = venv
+ignore =
+    # N812: lowercase imported as non lowercase
+    N812
+max-complexity = 10
